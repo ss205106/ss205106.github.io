@@ -1,7 +1,5 @@
 # 헬스용품 판매 사이트
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=헬스용품%20판매%20사이트&fontSize=50&fontColor=ffffff" />
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
