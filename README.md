@@ -1,4 +1,5 @@
 # 헬스용품 판매 사이트
+![store](https://github.com/ss205106/ss205106.github.io/assets/160206236/4661c3f7-9004-4644-b45d-b64dd24af19d)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
